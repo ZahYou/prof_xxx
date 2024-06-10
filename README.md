@@ -1,4 +1,5 @@
-![pulsar_star_wp](https://gssc.esa.int/navipedia/images/a/a9/Example.jpg)
+![img3](https://github.com/ZahYou/prof_xxx/assets/136652882/eb72e681-cfce-4615-a1f3-df67e6871124)
+
 
 
 # Predicting Market Movements Using NLP Techniques
